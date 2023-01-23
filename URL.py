@@ -15,4 +15,4 @@ def find_url(file_path):
         else:
             print("No URL found in the text.")
 
-find_url('URL-EXTRACTOR/ my_text_file.txt')
+find_url('Vdarak/URL-EXTRACTOR/my_text_file.txt')
